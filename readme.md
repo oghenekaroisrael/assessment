@@ -7,10 +7,11 @@
 
 
 <h3>Requirements</h3>
-<p>node version 16 and above</p>
+<p>node version 16 and above - click here to download <a href="https://nodejs.org/en/">Node Js</a></p>
+<p>react native cli - <a href="https://reactnative.dev/docs/environment-setup">React Native</a></p>
 
 <h3>Installation</h3>
-<p>yarn install</p>
+<p>npm install or yarn install</p>
 <p>cd ios && pod install</p>
 <p>npx react-native run-ios</p>
 
